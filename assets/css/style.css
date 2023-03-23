@@ -965,9 +965,9 @@ form .button-area {
 
 /* scroll top starts */
 #scroll-top {
-  position: left;
+  position: absolute;
   top: -140%;
-  right: 2rem;
+  right: 0;
   padding: 1rem 1.5rem;
   font-size: 2rem;
   background: #ffae00;
